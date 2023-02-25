@@ -18,7 +18,3 @@ Based on the benchmarking results, normal distribution was found to be the best 
 <div style="text-align:center">
   <img src="img/NormalDistributionGraph.png"/>
 </div>
-
-<div style="text-align:center">
-  <img src="img/NormalDistributionDataFrame.png"/>
-</div>
