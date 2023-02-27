@@ -16,5 +16,5 @@ I used these methods to clean the dataset and then compared the results to deter
 Based on the benchmarking results, normal distribution was found to be the best option among the compared data cleaning methods.
 
 <div style="text-align:center">
-  <img src="img/NormalDistributionGraph.png"/>
+  <img src="img/NormalDistributionGraph1.png"/>
 </div>
